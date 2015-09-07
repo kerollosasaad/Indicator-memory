@@ -118,7 +118,7 @@ int main(int argc, char **argv){
   app_indicator_set_menu(indicator, GTK_MENU(indicator_menu));
 
   update();
-  g_timeout_add(1000 * period, update, NULL);
+  g_timeout_add(1000 * period, (GtkFunction) update, NULL);
   
   gtk_main();
   return 0;
