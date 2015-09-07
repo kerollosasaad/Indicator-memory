@@ -1,6 +1,8 @@
 Indicator for memory usage.
 ===========================
 
+![](https://raw.githubusercontent.com/kerollosasaad/Indicator-memory/master/scr1.png)
+
 Usage
 -----
 
