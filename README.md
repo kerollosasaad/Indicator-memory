@@ -13,8 +13,17 @@ cd Indicator-memory
 make
 sudo make install
 Indicator-memory &
+<<<<<<< HEAD
 
 Credits
 -------
 
 Originally written by kerollos Asaad <kerollosasaad@Gmail.com>
+=======
+```
+
+Credits
+-----
+
+Written by kerollos Asaad <kerollosasaad@Gmail.com>
+>>>>>>> 28214776c1df4dcaa48dc382ba5eb5febf76551b
