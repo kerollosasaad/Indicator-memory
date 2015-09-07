@@ -3,6 +3,8 @@ Indicator for memory usage.
 
 ![](https://raw.githubusercontent.com/kerollosasaad/Indicator-memory/master/Screenshot%20from%202015-09-07%2012%3A13%3A55.png)
 
+![](https://raw.githubusercontent.com/kerollosasaad/Indicator-memory/master/Screenshot%20from%202015-09-07%2012%3A01%3A55.png)
+
 
 Usage
 -----
