@@ -1,7 +1,7 @@
 Indicator for memory usage.
 ===========================
 
-![](https://raw.githubusercontent.com/kerollosasaad/Indicator-memory/master/scr1.png)
+![](https://raw.githubusercontent.com/kerollosasaad/Indicator-memory/master/Screenshot%20from%202015-09-07%2012%3A13%3A55.png)
 
 Usage
 -----
@@ -13,17 +13,9 @@ cd Indicator-memory
 make
 sudo make install
 Indicator-memory &
-<<<<<<< HEAD
-
-Credits
--------
-
-Originally written by kerollos Asaad <kerollosasaad@Gmail.com>
-=======
 ```
 
 Credits
 -----
 
 Written by kerollos Asaad <kerollosasaad@Gmail.com>
->>>>>>> 28214776c1df4dcaa48dc382ba5eb5febf76551b
